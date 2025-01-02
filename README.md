@@ -1,1 +1,4 @@
-# sql-challenge
+# sql-challenge summary
+The sql challenge focused on summarizing employee-related data from an employee database with six tables: titles, Employee, Department_emp, salaries, departments and department management. 
+At first quickdatabasediagrams was employed to create database diagrams and  schema for the sql. The Primary and foreign keys were defined in the schema which was later used to make sql file for data analysis using PgAdmin
+From the data analysis we categorized employee and manager in respective department based on their employee and department ID, hiring date  list and count the number of employee with sharing same last name
